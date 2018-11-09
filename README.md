@@ -1,1 +1,1 @@
-# python_eatsclub
+# python_eatsclub куку
